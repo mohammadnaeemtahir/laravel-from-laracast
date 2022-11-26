@@ -1,0 +1,1 @@
+<button style="background-color: cyan; padding: 3px;">{{$slot}}</button>
